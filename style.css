@@ -1,0 +1,29 @@
+img{
+    height:100px;
+}
+
+#home{
+    margin-top:150px;
+}
+
+#home ul li a{
+    color: black;
+}
+
+#home ul li a:hover{
+    text-decoration: none;
+    color:red;
+}
+
+
+#billionaire-header{
+    margin-top:100px;
+}
+
+
+.card:hover{
+    background:black;
+    color:white;
+}
+
+
